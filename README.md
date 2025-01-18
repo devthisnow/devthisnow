@@ -1,5 +1,13 @@
-## Hi there 👋
+### Hi, my name is Ilia, and I'm a certified front-end developer with an advanced skillset.
 
+## Please reach out if you are interested in web app development.
+
+#### In my repos you can find code examples from the projects I had been working on.
+
+_My personal recommendation is to check the side project I work on in my free time._\
+Which is a PWA to track your activity and plan your day in a clean and minimal aesthetic.
+
+[Click to check out the Achiever PWA🠒](https://github.com/devthisnow/achieverApp)
 <!--
 **devthisnow/devthisnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
